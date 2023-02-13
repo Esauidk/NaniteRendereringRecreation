@@ -20,5 +20,5 @@ jobs:
           enable-latex: true
       - name: Push Docs To Branch
         run:
-          echo "Pushing To Seperate Branch"
+          echo "Pushing To Seperate Branch" \
           ls
